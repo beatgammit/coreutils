@@ -12,6 +12,7 @@ PROGS       := \
   echo \
   env \
   du \
+  factor \
   false \
   fold \
   md5sum \
